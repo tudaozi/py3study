@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # coding=UTF-8
 '''
-@Description: if else
+@Description: else study
 @Author: Tudaozi
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-03-25 01:40:59
-@LastEditTime: 2019-03-25 23:31:53
+@LastEditTime: 2019-03-25 23:36:02
 '''
 x = 4
 if x == 5:
