@@ -6,8 +6,18 @@
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-03-26 11:18:57
-@LastEditTime: 2019-03-26 13:44:13
+@LastEditTime: 2019-03-26 20:12:33
 '''
+
+print(False == False or True)
+print(False == (False or True))
+print((False == False)or True)
+
+if 1+1 * 3 == 6:
+    print("yes")
+else:
+    print("no")
+
 x = 4
 y = 2
 if not 1+1 == y or x == 4 and 7 == 8:
