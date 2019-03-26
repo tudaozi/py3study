@@ -6,7 +6,7 @@
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-03-26 11:18:57
-@LastEditTime: 2019-03-26 11:30:43
+@LastEditTime: 2019-03-26 11:31:50
 '''
 if 10 > 5:
     print("10 大于 5")
