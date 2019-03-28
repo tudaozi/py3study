@@ -6,7 +6,7 @@
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-03-25 13:03:36
-@LastEditTime: 2019-03-27 12:02:48
+@LastEditTime: 2019-03-28 13:33:38
 '''
 i = 0
 while 1 == 1:
@@ -35,3 +35,11 @@ while True:
         break
     print(i)
 print("Finished")
+
+age = 15
+while age > 1:
+    age -= 1
+    if age == 12:
+        continue
+    print(age)
+print("end")
