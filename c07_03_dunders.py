@@ -7,7 +7,7 @@ import random
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-04-06 22:19:44
-@LastEditTime: 2019-04-07 01:07:07
+@LastEditTime: 2019-04-07 01:20:31
 '''
 
 
@@ -83,5 +83,5 @@ print(len(vague_list))
 print(vague_list[2])
 print(vague_list[2])
 
-vague_list = ["A", "B", "C", "D", "E"]
-print(vague_list[2])
+vague_list1 = ["A", "B", "C", "D", "E"]
+print(vague_list1[2])
