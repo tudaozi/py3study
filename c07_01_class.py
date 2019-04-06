@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # coding=UTF-8
 '''
-@Description: 
+@Description: class
 @Author: Tudaozi
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-04-06 10:19:39
-@LastEditTime: 2019-04-06 22:15:51
+@LastEditTime: 2019-04-06 22:28:56
 '''
 
 
