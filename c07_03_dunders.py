@@ -2,12 +2,12 @@
 # coding=UTF-8
 import random
 '''
-@Description: 
+@Description: class
 @Author: Tudaozi
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-04-06 22:19:44
-@LastEditTime: 2019-04-07 01:22:51
+@LastEditTime: 2019-04-07 01:25:43
 '''
 
 
@@ -43,7 +43,7 @@ print(hello.cont)
 print(spam / hello)
 
 
-class SpecialString:
+class Specialstring:
     def __init__(self, cont):
         self.cont = cont
 
@@ -54,8 +54,8 @@ class SpecialString:
             print(result)
 
 
-spam = SpecialString("spam")
-eggs = SpecialString("eggs")
+spam = Specialstring("spam")
+eggs = Specialstring("eggs")
 spam > eggs
 
 
