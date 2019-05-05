@@ -2,12 +2,13 @@
 # coding=UTF-8
 '''
 @Description: 
-@Author: Tudaozi
+@Author: StaURL
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-03-29 14:01:32
-@LastEditTime: 2019-03-29 14:17:28
+@LastEditTime: 2019-05-05 09:44:35
 '''
+
 # string formatting
 nums = [4, 5, 6]
 msg = "Numbers: {0} {1} {2}". format(nums[0], nums[1], nums[2])
