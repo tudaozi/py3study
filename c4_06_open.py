@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # coding=UTF-8
 '''
-@Description: 
-@Author: Tudaozi
+@Description: S
+@Author: StaURL
 @WebSite: https://www.staurl.com
 @LastEditors: Tudaozi
 @Date: 2019-03-28 13:34:16
-@LastEditTime: 2019-03-28 15:15:09
+@LastEditTime: 2019-05-09 14:34:18
 '''
 myfile1 = open("C:/Users/lzp/Code/Repository/py3study/filename1.txt")
 myfile1.close()
